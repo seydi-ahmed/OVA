@@ -45,12 +45,8 @@ Créer une application mobile qui agit comme un **mentor numérique de quartier*
 
 | Côté | Tech | Justification |
 |------|------|---------------|
-| **Frontend** | React Native (Expo) | Léger, mobile-first, multilingue |
-| **Backend** | Node.js + Express | Rapide à mettre en place, REST |
-| **Base de données** | MongoDB Atlas | Flexible, parfaite pour contenu & users |
-| **IA** | GPT API (ou local fallback) | Assistant simple & pédagogique |
-| **Auth** | Firebase Auth | Rapide, fiable, multi-support |
-| **CMS contenu** | Strapi (ou Notion sync) | Gestion de récits, quiz, parcours |
+| **Frontend** | - | - |
+| **Backend** | - | - |
 
 ---
 
@@ -78,12 +74,6 @@ Créer une application mobile qui agit comme un **mentor numérique de quartier*
 
 ```
 /OVA
-├─ client/ # App mobile (React Native)
-├─ server/ # Backend API (Node.js)
-├─ content/ # Récits, quiz, audio, etc.
-├─ public/ # Assets partagés
-├─ scripts/ # DevOps & outils
-├─ push.sh # pousser vers le git
 └─ README.md # (ce fichier)
 ```
 
