@@ -1,34 +1,139 @@
-# 🌍 SIRA - Mentor Numérique de Citoyenneté Africaine
+# 🌍 SIRA — Plateforme citoyenne pour la jeunesse ouest-africaine
 
-**Reconnecter la jeunesse ouest-africaine à l'engagement citoyen par le numérique**
+**Organisation des Volontaires d’Afrique (OVA)**  
+Projet numérique éducatif, culturel et communautaire
 
-## 🎯 Mission
-> *"SIRA est le mentor de quartier qui transforme la citoyenneté en expérience accessible, ludique et culturellement enracinée."*
+---
 
-Une application mobile pour:
-- 📱 **Éduquer** via des micro-contenus (audio, vidéo, quiz)
-- 🌱 **Engager** avec des défis communautaires locaux
-- 🏆 **Valoriser** par une gamification africaine
+## ✨ Vision
+Créer une application mobile qui agit comme un **mentor numérique de quartier**, pour **reconnecter les jeunes d'Afrique de l’Ouest à leur citoyenneté**, en s'appuyant sur leurs codes culturels, formats favoris et réalités locales.
 
-## ✨ Fonctionnalités Clés (MVP)
-À faire
+> “Tu apprends, tu agis, tu laisses une trace.”
 
-## 🧑‍💻 Personas Cibles
-À faire
+---
 
-## 🛠 Stack Technique
-À faire
+## 🎯 Objectifs du MVP (3 mois)
 
-## 📊 KPIs Clés
-- ✅ Taux de complétion > 60%
-- ✅ 1 000 testeurs en 3 mois
-- ✅ 30 récits audio co-produits
+- ✅ **Parcours pédagogiques courts** (audio, vidéo, quiz)
+- ✅ **Défis citoyens locaux** à relever seul ou en groupe
+- ✅ **Progression gamifiée** (badges, XP, suivis)
+- ✅ **Dashboard personnalisé** d'engagement
+- ✅ **Assistant IA simple** pour guider l’utilisateur
+- ✅ **Contenus inspirants** co-créés avec les jeunes
 
-## 🌍 Vision Future
-Devenir la référence panafricaine de l'engagement citoyen numérique d'ici 2027
+---
 
-## 🤝 Contributions:
-1) Head of product:
-2) UX-Design:
-3) Architectes:
-4) Développeurs:
+## 👤 Persona principal
+
+**Awa (19 ans, Conakry)**
+- Très connectée (TikTok, Insta), mais déconnectée des enjeux civiques  
+- Ne vote pas, peu de repères citoyens  
+- Recherche du **contenu court, fun, motivant, accessible offline**
+
+---
+
+## 👤 Personas secondaires
+
+1) **Mamadou (28 ans)** 
+- salarié débordé, informé mais passif
+2) **Mme Sanogo (42 ans)**
+- enseignante engagée, en quête d’outils modernes pour sensibiliser ses élèves
+
+---
+
+## 📱 Stack proposée (tech MVP)
+
+| Côté | Tech | Justification |
+|------|------|---------------|
+| **Frontend** | React Native (Expo) | Léger, mobile-first, multilingue |
+| **Backend** | Node.js + Express | Rapide à mettre en place, REST |
+| **Base de données** | MongoDB Atlas | Flexible, parfaite pour contenu & users |
+| **IA** | GPT API (ou local fallback) | Assistant simple & pédagogique |
+| **Auth** | Firebase Auth | Rapide, fiable, multi-support |
+| **CMS contenu** | Strapi (ou Notion sync) | Gestion de récits, quiz, parcours |
+
+---
+
+## 🚧 Contraintes
+
+- Accès Internet souvent limité → ⚡ App offline-first
+- Multilingue (français + langues locales)
+- Budget limité → focus sur MVP rapide et impactant
+- Ne pas traiter de politique partisane
+- Onboarding super simple
+
+---
+
+## 📊 KPIs
+
+- Taux de complétion des parcours > **60 %**
+- Taux de rétention > **7 jours**
+- Nombre de **défis citoyens relevés**
+- Feedback qualitatif (audio, interview testeurs)
+- 1 000 jeunes engagés dans 2 pays (phase pilote)
+
+---
+
+## 📦 Repo structure (à venir)
+
+```
+/OVA
+├─ client/ # App mobile (React Native)
+├─ server/ # Backend API (Node.js)
+├─ content/ # Récits, quiz, audio, etc.
+├─ public/ # Assets partagés
+├─ scripts/ # DevOps & outils
+└─ README.md # (ce fichier)
+```
+
+---
+
+## 🤝 Contribuer
+
+Tu veux aider ? Clone le repo, installe les dépendances et lis le prochain `CONTRIBUTING.md`.
+
+> Ce projet est fait par et pour les jeunes d’Afrique de l’Ouest.  
+> Il grandira avec leurs idées, leurs récits, leurs actions.
+
+---
+
+## 🧠 Citation d’inspiration
+
+> “SIRA est une application conçue pour apprendre à **agir**, pas juste à écouter.”
+
+---
+
+## 👥 Auteurs & Équipe
+
+Ce projet est conçu par une équipe panafricaine engagée, réunissant des expertises en produit, design, architecture et développement full stack.
+
+### 🎯 Head of Product
+- **Saliou Diop**
+    - GitHub : [@salioudiop5](https://github.com/salioudiop5)  
+    - Email : Diopsaliou5@yahoo.com
+
+### 🎨 UX Design
+- **Khady Lo**
+    - GitHub : [@dylolo20](https://github.com/dylolo20)  
+    - Email : khadylo474@gmail.com
+
+### 🏗️ Architectes Logiciels
+- **Abdoulaye Sambe**
+    - GitHub : [@Bog0sso](https://github.com/Bog0sso)  
+    - Email : sambe0002@gmail.com  
+- **Samba Ngom**
+    - GitHub : [@sngom1995](https://github.com/sngom1995)  
+    - Email : ngomsamba75@gmail.com
+
+### 💻 Ingénieurs Full Stack
+- **Oumy Laye Kane**
+    - GitHub : [@OumyLayelay1](https://github.com/OumyLayelay1)  
+    - Email : kaneoumylaye@gmail.com
+
+- **Elimane Gning**
+    - GitHub : [@Elzocodeur](https://github.com/Elzocodeur)  
+    - Email : gningeli03@gmail.com
+
+- **Mouhamed Diouf**
+    - GitHub : [@seydi-ahmed](https://github.com/seydi-ahmed)  
+    - Email : seydiahmedelcheikh@gmail.com
