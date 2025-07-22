@@ -83,6 +83,7 @@ Créer une application mobile qui agit comme un **mentor numérique de quartier*
 ├─ content/ # Récits, quiz, audio, etc.
 ├─ public/ # Assets partagés
 ├─ scripts/ # DevOps & outils
+├─ push.sh # pousser vers le git
 └─ README.md # (ce fichier)
 ```
 
