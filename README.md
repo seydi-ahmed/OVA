@@ -14,12 +14,14 @@ Créer une application mobile qui agit comme un **mentor numérique de quartier*
 
 ## 🎯 Objectifs du MVP (3 mois)
 
-- ✅ **Parcours pédagogiques courts** (audio, vidéo, quiz)
-- ✅ **Défis citoyens locaux** à relever seul ou en groupe
-- ✅ **Progression gamifiée** (badges, XP, suivis)
-- ✅ **Dashboard personnalisé** d'engagement
-- ✅ **Assistant IA simple** pour guider l’utilisateur
-- ✅ **Contenus inspirants** co-créés avec les jeunes
+- ✅ **Parcours éducatif**
+- ✅ **Défis citoyens**
+- ✅ **Gamification**
+- ✅ **Offline mode**
+- ✅ **Assistant IA**
+- ✅ **Community chat**
+- ✅ **Témoignages**
+- ✅ **Podcasts**
 
 ---
 
