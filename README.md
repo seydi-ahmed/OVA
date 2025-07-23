@@ -47,8 +47,9 @@ Créer une application mobile qui agit comme un **mentor numérique de quartier*
 
 | Côté | Tech | Justification |
 |------|------|---------------|
-| **Frontend** | - | - |
-| **Backend** | - | - |
+| **Mobile** | Flutter | Développement cross-platform rapide avec une seule codebase pour iOS et Android |
+| **Backend** | Nest | Architecture solide et scalable grâce à son approche modulaire (inspirée d'Angular) |
+| **Frontend** | Angular | Framework complet et structuré, parfait pour une interface admin complexe. Cohérence avec NestJS (même écosystème TypeScript) |
 
 ---
 
