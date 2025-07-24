@@ -43,3 +43,9 @@ Fournir une API REST sécurisée, évolutive et multilingue pour:
 - Tracking de progression utilisateurs
 - Webhook assistant IA
 - Statistiques & reporting
+
+---
+
+## NB:
+- tout le travail doit se faire à l'intérieur de ce dossier **(backend)**.
+- la racine du projet ne doit contenir que le dossier **backend**.
