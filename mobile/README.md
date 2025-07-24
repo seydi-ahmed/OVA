@@ -48,5 +48,5 @@ Développer l'application mobile principale destinée aux utilisateurs finaux (j
 ---
 
 ## NB:
-- tout le travail doit se faire à l'intérieur de ce dossier (mobile).
-- la racine du projet ne doit contenir que le dossier mobile.
+- tout le travail doit se faire à l'intérieur de ce dossier **(mobile)**.
+- la racine du projet ne doit contenir que le dossier **mobile**.
