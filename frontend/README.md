@@ -62,3 +62,9 @@ ng serve
 - Statistiques d’usage
 - Multilingue (ngx-translate)
 - Publication et modération de contenus
+
+---
+
+## NB:
+- tout le travail doit se faire à l'intérieur de ce dossier **(frontend)**.
+- la racine du projet ne doit contenir que le dossier **frontend**.
