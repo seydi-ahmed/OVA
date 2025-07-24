@@ -28,6 +28,11 @@ Développer l'application mobile principale destinée aux utilisateurs finaux (j
 
 ---
 
+## Structure
+- 
+
+---
+
 ## 📌 Fonctionnalités cibles
 - Authentification (Firebase / API)
 - Navigation fluide (bottom bar / tab / drawer)
