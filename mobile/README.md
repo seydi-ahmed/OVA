@@ -44,3 +44,9 @@ Développer l'application mobile principale destinée aux utilisateurs finaux (j
 - Community chat
 - Témoignages
 - Podcasts
+
+---
+
+## NB:
+- tout le travail doit se faire à l'intérieur de ce dossier (mobile).
+- la racine du projet ne doit contenir que le dossier mobile.
