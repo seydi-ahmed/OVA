@@ -1,7 +1,7 @@
 # 🌍 SIRA — Plateforme citoyenne pour la jeunesse ouest-africaine
 
 **Organisation des Volontaires d’Afrique (OVA)**  
-Projet numérique éducatif, culturel et communautaire
+Projet numérique éducatif, culturel et communautaire.
 
 ---
 
