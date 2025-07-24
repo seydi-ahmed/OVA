@@ -1,10 +1,3 @@
-
----
-
-## 🧠 Branche `backend` (`NestJS` – Elimane & Samba)
-
-**`backend/README.md`**
-```markdown
 # 🧠 SIRA — Backend API (NestJS)
 
 > Branche : `backend`  
