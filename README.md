@@ -31,6 +31,11 @@ Fournir une API REST sécurisée, évolutive et multilingue pour:
 
 ---
 
+## Structure
+- 
+
+---
+
 ## 📌 Fonctionnalités cibles
 - Authentification sécurisée (JWT / Firebase)
 - API REST complète pour mobile + admin
