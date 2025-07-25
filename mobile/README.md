@@ -11,20 +11,47 @@ Développer l'application mobile principale destinée aux utilisateurs finaux (j
 
 ## 🚀 Stack technique
 
-- flutter
-- etc.
+- **Langage :** Dart
+- **Framework :** Flutter
+- **IDE recommandé :** Android Studio / Visual Studio Community 2022
+- **Outils :**
+  - Flutter SDK
+  - Android SDK
+  - Emulateur Android
+- **Plateformes ciblées :** Android
+- **Backend :** Firebase / API REST
 
 ---
 
 ## ⚙️ Prérequis
 
-- 
+Avant de commencer, assurez-vous d’avoir installé :
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Android Studio](https://developer.android.com/studio)
+- [Git](https://git-scm.com/downloads)
+
+Puis vérifier l'environnement avec git bash en mettant cette commande suivante :
+- flutter doctor
 
 ---
 
 ## 🧪 Installation locale
 
-- 
+### 1. Cloner le projet
+- git clone https://github.com/seydi-ahmed/OVA.git
+- cd NOM_PROJET
+
+### 2. Installer les dépendances
+- flutter pub get
+
+### 3. Vérifier l'environnement
+- flutter doctor
+
+### 4. Lancer l'application
+- Ouvrez Android Studio
+- Lancez un AVD (émulateur)
+- Revenez au terminal et tapez : *flutter run*
 
 ---
 
